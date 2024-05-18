@@ -32,6 +32,7 @@ transform: translateZ(-380px); filter: blur(20px); box-shadow: 0 0 120px white, 
  @media (max-width:767px){
 .text1{text-align:right; margin:70px 10px 0 100px;}
 .row, .text2{width: fit-content; display:block; margin: 0 auto;}
+.ab{display: flex; width: 100%; padding: 0; margin: 0;}
 .tef{padding-top:10px;}
 .d-block{height:300px;}
 .text2{ margin:50px auto;}
